@@ -1,6 +1,7 @@
 "use stict";
 
 //Scroll Event Listener
+//Scroll Event Listener
 window.addEventListener("scroll", function () {
   //Variables
   const burgerLine = document.getElementsByClassName("line");
